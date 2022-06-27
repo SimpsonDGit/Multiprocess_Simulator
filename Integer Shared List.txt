@@ -1,0 +1,45 @@
+		List Values
+		========
+
+	Key: 14		 Value: 62
+	Key: 13		 Value: 60
+	Key: 12		 Value: 68
+	Key: 11		 Value: 75
+	Key: 10		 Value: 15
+	Key: 9		 Value: 33
+	Key: 8		 Value: 3
+	Key: 7		 Value: 79
+	Key: 6		 Value: 68
+	Key: 5		 Value: 72
+	Key: 4		 Value: 62
+	Key: 3		 Value: 16
+	Key: 2		 Value: 19
+	Key: 1		 Value: 20
+	Key: 0		 Value: 80
+
+
+	    CURRENT TOTAL: 15
+
+
+	     After Process Results
+	====================
+
+	Key: 18		 Value: 989
+	Key: 17		 Value: 12
+	Key: 8		 Value: 3
+	Key: 10		 Value: 15
+	Key: 9		 Value: 33
+	Key: 12		 Value: 68
+	Key: 4		 Value: 62
+	Key: 3		 Value: 16
+	Key: 2		 Value: 19
+	Key: 1		 Value: 20
+	Key: 6		 Value: 68
+	Key: 5		 Value: 72
+	Key: 11		 Value: 75
+	Key: 16		 Value: 78
+	Key: 7		 Value: 79
+	Key: 0		 Value: 80
+
+
+	   CURRENT TOTAL: 16
